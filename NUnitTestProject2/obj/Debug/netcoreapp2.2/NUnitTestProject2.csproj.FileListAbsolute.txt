@@ -1,0 +1,17 @@
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnitTestProject2.deps.json
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnitTestProject2.runtimeconfig.json
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnitTestProject2.runtimeconfig.dev.json
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnitTestProject2.dll
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnitTestProject2.pdb
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\bin\Debug\netcoreapp2.2\DiggerLib.dll
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\bin\Debug\netcoreapp2.2\DiggerLib.pdb
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.csprojAssemblyReference.cache
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.csproj.CoreCompileInputs.cache
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.AssemblyInfoInputs.cache
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.AssemblyInfo.cs
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.csproj.CopyComplete
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.dll
+C:\Users\w1jtoo\Source\Repos\DiggerLib\NUnitTestProject2\obj\Debug\netcoreapp2.2\NUnitTestProject2.pdb

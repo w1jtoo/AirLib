@@ -1,0 +1,13 @@
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\b\nUnitTests\Debug\netcoreapp2.2\nUnitTests.deps.json
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\b\nUnitTests\Debug\netcoreapp2.2\nUnitTests.dll
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\i\nUnitTests\Debug\netcoreapp2.2\nUnitTests.csprojAssemblyReference.cache
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\i\nUnitTests\Debug\netcoreapp2.2\nUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\i\nUnitTests\Debug\netcoreapp2.2\nUnitTests.AssemblyInfoInputs.cache
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\i\nUnitTests\Debug\netcoreapp2.2\nUnitTests.AssemblyInfo.cs
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\i\nUnitTests\Debug\netcoreapp2.2\nUnitTests.csproj.CopyComplete
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\i\nUnitTests\Debug\netcoreapp2.2\nUnitTests.dll
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\b\nUnitTests\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\b\nUnitTests\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\b\nUnitTests\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\b\nUnitTests\Debug\netcoreapp2.2\nUnitTests.runtimeconfig.json
+C:\Users\w1jtoo\Source\Repos\DiggerLib\.vs\DiggerLib\lut\0\b\nUnitTests\Debug\netcoreapp2.2\nUnitTests.runtimeconfig.dev.json

@@ -1,0 +1,10 @@
+C:\Users\w1jtoo\Source\Repos\DiggerLib\DiggerLib\bin\Debug\DiggerLib.dll
+C:\Users\w1jtoo\Source\Repos\DiggerLib\DiggerLib\bin\Debug\DiggerLib.pdb
+C:\Users\w1jtoo\Source\Repos\DiggerLib\DiggerLib\bin\Debug\nunit.framework.dll
+C:\Users\w1jtoo\Source\Repos\DiggerLib\DiggerLib\bin\Debug\nunit.framework.pdb
+C:\Users\w1jtoo\Source\Repos\DiggerLib\DiggerLib\bin\Debug\nunit.framework.xml
+C:\Users\w1jtoo\Source\Repos\DiggerLib\DiggerLib\obj\Debug\DiggerLib.csprojAssemblyReference.cache
+C:\Users\w1jtoo\Source\Repos\DiggerLib\DiggerLib\obj\Debug\DiggerLib.csproj.CoreCompileInputs.cache
+C:\Users\w1jtoo\Source\Repos\DiggerLib\DiggerLib\obj\Debug\DiggerLib.csproj.CopyComplete
+C:\Users\w1jtoo\Source\Repos\DiggerLib\DiggerLib\obj\Debug\DiggerLib.dll
+C:\Users\w1jtoo\Source\Repos\DiggerLib\DiggerLib\obj\Debug\DiggerLib.pdb
