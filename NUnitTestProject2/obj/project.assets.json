@@ -5769,11 +5769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w1jtoo\\Source\\Repos\\DiggerLib\\NUnitTestProject2\\nUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\w1jtoo\\Desktop\\c#\\AirLib\\NUnitTestProject2\\nUnitTests.csproj",
       "projectName": "nUnitTests",
-      "projectPath": "C:\\Users\\w1jtoo\\Source\\Repos\\DiggerLib\\NUnitTestProject2\\nUnitTests.csproj",
+      "projectPath": "C:\\Users\\w1jtoo\\Desktop\\c#\\AirLib\\NUnitTestProject2\\nUnitTests.csproj",
       "packagesPath": "C:\\Users\\w1jtoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\w1jtoo\\Source\\Repos\\DiggerLib\\NUnitTestProject2\\obj\\",
+      "outputPath": "C:\\Users\\w1jtoo\\Desktop\\c#\\AirLib\\NUnitTestProject2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5793,8 +5793,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\w1jtoo\\Source\\Repos\\DiggerLib\\DiggerLib\\DiggerLib.csproj": {
-              "projectPath": "C:\\Users\\w1jtoo\\Source\\Repos\\DiggerLib\\DiggerLib\\DiggerLib.csproj"
+            "C:\\Users\\w1jtoo\\Desktop\\c#\\AirLib\\DiggerLib\\DiggerLib.csproj": {
+              "projectPath": "C:\\Users\\w1jtoo\\Desktop\\c#\\AirLib\\DiggerLib\\DiggerLib.csproj"
             }
           }
         }

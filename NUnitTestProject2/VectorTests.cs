@@ -6,23 +6,23 @@ namespace Tests
 {
     public class Tests
     {
-        private readonly Vector vNull = new Vector(vType.NULL);
-        private readonly Vector vUp = new Vector(vType.UP);
-        private readonly Vector vDown = new Vector(vType.DOWN);
-        private readonly Vector vRight = new Vector(vType.RIGHT);
-        private readonly Vector vLeft = new Vector(vType.LEFT);
-        private readonly Vector vRundom = new Vector(vType.RANDOM);
+        private readonly Vector vNull = new Vector(VectorType.NULL);
+        private readonly Vector vUp = new Vector(VectorType.UP);
+        private readonly Vector vDown = new Vector(VectorType.DOWN);
+        private readonly Vector vRight = new Vector(VectorType.RIGHT);
+        private readonly Vector vLeft = new Vector(VectorType.LEFT);
+        private readonly Vector vRundom = new Vector(VectorType.RANDOM);
 
         [Test]
         public void NullVectorTestOne()
         {
-            Assert.IsTrue(vNull.IsNull());
+            Assert.IsTrue(vNull.IsZero());
         }
         [Test]
         public void NullVectorTestTwo()
         {
             var vResult = vRight + vLeft;
-            Assert.IsTrue(vResult.IsNull());
+            Assert.IsTrue(vResult.IsZero());
         }
         [Test]
         public void MultVectorTest()
@@ -35,7 +35,7 @@ namespace Tests
         [Test] 
         public void Normalize()
         {
-            var Vec = (vRight) * 2;
+            var Vec = (vRight + vUp) * 2;
             Vec.Normalize();
             Assert.AreNotEqual(Vec,vRight);
         }
@@ -44,7 +44,7 @@ namespace Tests
         [TestCase(0, 0)]
         public void NormalizeWithOperator(int min, int max)
         {
-            var temp = new Vector(vType.RANDOM, min, max);
+            var temp = new Vector(VectorType.RANDOM, min, max);
             Assert.IsTrue((!temp).Length() == 1);
         }
     }

@@ -1,0 +1,4 @@
+C:\Users\w1jtoo\Desktop\c#\AirLib\.vs\DiggerLib\lut\0\b\DiggerLib\bin\Debug\DiggerLib.dll
+C:\Users\w1jtoo\Desktop\c#\AirLib\.vs\DiggerLib\lut\0\i\DiggerLib\Debug\DiggerLib.csproj.CoreCompileInputs.cache
+C:\Users\w1jtoo\Desktop\c#\AirLib\.vs\DiggerLib\lut\0\i\DiggerLib\Debug\DiggerLib.csproj.CopyComplete
+C:\Users\w1jtoo\Desktop\c#\AirLib\.vs\DiggerLib\lut\0\i\DiggerLib\Debug\DiggerLib.dll
